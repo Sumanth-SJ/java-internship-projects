@@ -1,0 +1,108 @@
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 1
+Enter name: Sumanth S J
+Math marks: 89
+Science marks: 98
+English marks: 90
+History marks: 87
+Computer marks: 99
+✅ Student Added
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 2
+
+NAME	AVERAGE	GRADE
+Sumanth S J	0.0	null
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 1
+Enter name: Sahana
+Math marks: 89
+Science marks: 09
+English marks: 56
+History marks: 98
+Computer marks: 88
+✅ Student Added
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 2
+
+NAME	AVERAGE	GRADE
+Sumanth S J	0.0	null
+Sahana	0.0	null
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 3
+Grades calculated successfully!
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 4
+
+=== TOP PERFORMERS ===
+Sumanth S J → 92.6
+Sahana → 68.0
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 5
+
+=== PERFORMANCE REPORT ===
+Total Students: 2
+
+GRADE DISTRIBUTION:
+A Grade: 1
+B Grade: 0
+C Grade: 1
+D Grade: 0
+F Grade: 0
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 
