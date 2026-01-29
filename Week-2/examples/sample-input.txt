@@ -1,0 +1,18 @@
+=== PERFORMANCE REPORT ===
+Total Students: 2
+
+GRADE DISTRIBUTION:
+A Grade: 1
+B Grade: 0
+C Grade: 1
+D Grade: 0
+F Grade: 0
+
+=== GRADE MANAGEMENT SYSTEM ===
+1. Add Student
+2. View Students
+3. Calculate Grades
+4. Top Performers
+5. Report
+6. Exit
+Choice: 
