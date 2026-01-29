@@ -1,0 +1,51 @@
+-----------------------------
+        CLASS DIAGRAM
+-----------------------------
+
++----------------------+
+|        Book          |
++----------------------+
+| - isbn               |
+| - title              |
+| - author             |
+| - genre              |
+| - available           |
++----------------------+
+| + getters/setters    |
+| + displayInfo()      |
++----------------------+
+
++----------------------+
+|       Member         |
++----------------------+
+| - memberId           |
+| - name               |
+| - contact            |
+| - borrowedBooks      |
++----------------------+
+| + borrowBook()       |
+| + returnBook()       |
+| + displayInfo()      |
++----------------------+
+
++----------------------+
+|       Library        |
++----------------------+
+| - books              |
+| - members            |
++----------------------+
+| + addBook()          |
+| + addMember()        |
+| + findBookByIsbn()   |
+| + findMemberById()   |
+| + searchBooks()      |
+| + displayAllBooks()  |
+| + displayAvailable() |
++----------------------+
+
+LibrarySystem
+     |
+     v
+   Library
+   /     \
+ Book   Member
