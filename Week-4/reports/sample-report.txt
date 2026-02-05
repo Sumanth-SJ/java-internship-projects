@@ -1,0 +1,6 @@
+Employee Salary Report
+
+Total Employees: 4
+Average Salary: 90000
+Highest Salary: 105000
+Lowest Salary: 75000
