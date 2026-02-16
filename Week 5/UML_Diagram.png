@@ -1,0 +1,17 @@
+        Product (abstract)
+        -------------------
+        id
+        name
+        price
+        stockQuantity
+        -------------------
+        calculateDiscount()
+        getFinalPrice()
+
+           ▲
+  -------------------------
+  |           |           |
+Electronics  Clothing     Book
+
+ShoppingCart → CartItem → Product
+Order → ShoppingCart
