@@ -1,0 +1,4 @@
+PROD001,Laptop,Electronics,75000,25
+PROD002,Mouse,Electronics,1200,5
+PROD003,Notebook,Stationery,50,100
+PROD004,Pen,Stationery,10,200
