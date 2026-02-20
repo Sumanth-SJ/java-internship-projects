@@ -1,0 +1,22 @@
+
+---
+
+# 📄 docs/collections-used.md (OPTIONAL BUT GOOD MARKS)
+
+```markdown
+# Java Collections Used
+
+## HashSet
+Used for unique SKU enforcement with O(1) average complexity.
+
+## LinkedList
+Used for transaction history where frequent insertions occur.
+
+## Stack (Deque)
+Used for undo functionality following LIFO principle.
+
+## Queue
+Used for low stock alert processing using FIFO.
+
+## TreeSet
+Used for maintaining sorted data.
